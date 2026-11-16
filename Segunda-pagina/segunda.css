@@ -1,0 +1,133 @@
+/* SEGUNDA PÁGINA */
+
+/* BANNER */
+
+.sobre-banner {
+    background-color: #263746;
+    padding: 100px 10%;
+    text-align: center;
+}
+
+.sobre-banner h1 {
+    color: #f5a623;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.sobre-banner p {
+    color: white;
+    font-size: 18px;
+}
+
+/* CONTEÚDO */
+
+.sobre-conteudo {
+    padding: 70px 12%;
+    background-color: white;
+}
+
+.sobre-conteudo h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.sobre-conteudo p {
+    color: #555;
+    font-size: 17px;
+    line-height: 1.9;
+    margin-bottom: 20px;
+}
+
+/* FUNCIONAMENTO */
+
+.funcionamento {
+    background-color: #e9edf1;
+    padding: 70px 8%;
+    text-align: center;
+}
+
+.funcionamento h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.etapas {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.etapa {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    flex: 1;
+    max-width: 330px;
+}
+
+.etapa span {
+    font-size: 40px;
+}
+
+.etapa h3 {
+    margin: 20px 0;
+    color: #263746;
+}
+
+.etapa p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* TIPOS DE CARGA */
+
+.tipos-carga {
+    padding: 70px 10%;
+    text-align: center;
+}
+
+.tipos-carga h2 {
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+
+.lista-cargas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.lista-cargas div {
+    background-color: #263746;
+    color: white;
+    padding: 25px;
+    border-radius: 8px;
+    min-width: 220px;
+}
+
+/* RESPONSIVIDADE */
+
+@media (max-width: 768px) {
+
+    .etapas {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .etapa {
+        width: 100%;
+    }
+
+    .sobre-banner h1 {
+        font-size: 30px;
+    }
+
+}
+.sobre{
+    background: #555;
+    margin: 10px;
+    padding: auto;
+    width: 100px;
+    height: 100px;
+}

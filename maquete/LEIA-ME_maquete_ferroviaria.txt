@@ -1,0 +1,42 @@
+MAQUETE 3D PARA TCC — SISTEMA FERROVIÁRIO DE CARGAS
+=================================================
+
+TEMA
+Transporte e distribuição logística por ferrovias: operação de um terminal intermodal de cargas.
+
+O QUE A MAQUETE REPRESENTA
+1. Origem e armazenagem: silos e estrutura de recebimento de cargas.
+2. Centro de distribuição: galpão e área de expedição.
+3. Terminal intermodal: pátio de contêineres e guindaste de movimentação.
+4. Ferrovia: locomotiva, três vagões, trilhos, ramal de desvio, semáforos e pátio ferroviário.
+5. Distribuição final: caminhões, van de entrega e edifício de destino.
+
+COMO APRESENTAR
+1. Extraia o arquivo .ZIP numa pasta do computador.
+2. Dê dois cliques em "maquete_ferroviaria_interativa.html" para abrir no navegador.
+3. Arraste o mouse na maquete para girar a visualização.
+4. Use a roda do mouse para ampliar ou reduzir.
+5. Clique em "Vista superior" para visualizar o planejamento do pátio.
+6. Clique em "Animar fluxo" para exibir os caminhos logísticos de maneira ilustrativa.
+7. Clique nas cinco etapas na coluna lateral para destacar os componentes.
+
+COMO EDITAR O MODELO
+- maquete_sistema_ferroviario.glb: importação em Blender ou visualizadores compatíveis; preserva cores.
+- maquete_sistema_ferroviario.obj: importação como geometria 3D em programas compatíveis.
+- As cores do OBJ podem não ser preservadas por todos os programas.
+- O HTML funciona localmente, sem depender de internet ou de bibliotecas externas.
+
+SUGESTÃO DE FALA PARA APRESENTAÇÃO
+"Nesta maquete apresentamos o funcionamento de um sistema ferroviário de cargas. O processo
+começa com a chegada e a armazenagem dos produtos. Em seguida, as mercadorias são
+conferidas no centro de distribuição e deslocadas para o terminal intermodal, onde os
+contêineres podem ser movimentados por equipamentos de carga. Os vagões levam grandes
+volumes de mercadorias por ferrovias, enquanto sistemas de sinalização e desvios
+organizam a circulação. No destino, o transporte rodoviário realiza a distribuição
+final. Assim, a maquete demonstra a integração entre transporte ferroviário,
+armazenagem e distribuição de produtos."
+
+IMPORTANTE
+Esta é uma maquete didática conceitual. As distâncias, proporções, características
+operacionais e sistemas de segurança são ilustrativos e não constituem um projeto
+técnico de engenharia ferroviária nem um retrato exato de uma ferrovia brasileira.
